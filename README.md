@@ -31,6 +31,4 @@ I have been interested in coding for a long time so now I make random things and
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/majorzen51"><img src="https://github-readme-stats.vercel.app/api?username=majorzen51&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="majorzen51's GitHub stats" /></a>
-
-<a href="https://github.com/majorzen51" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majorzen51&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SohamJa1n)](https://github.com/anuraghazra/github-readme-stats)
