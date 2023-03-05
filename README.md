@@ -31,4 +31,4 @@ I have been interested in coding for a long time so now I make random things and
 
 <b>My GitHub Stats</b>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SohamJa1n)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SohamJa1n&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
