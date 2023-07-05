@@ -9,7 +9,6 @@ I have been interested in coding for a long time so now I make random things and
 * 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [soham@sohamjain.co.uk](mailto:soham@sohamjain.co.uk)
 * 🧠  I'm learning Python
-* 🤝  I'm open to collaborating on Simple Python Projects that are useful
 
 ### Skills
 
