@@ -20,9 +20,3 @@ I have been interested in coding for a long time so now I make random things and
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SohamJa1n&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
