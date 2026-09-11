@@ -1,9 +1,8 @@
-Currently a Technology Degree Apprentice at the Bank of England.
-Simultaneously studying for a Digital and Technology solutions degree at the University of Exeter.
+Hi, I'm Soham
+Founder of Emendant - a CLI that watches SDK breaking changes, finds the exact call sites they hit in your repo, and writes patches proved against your own checks. Currently deep in AI SDK 6 to 7 migrations.
 
-Working in Test Environment Management and Enterprise Release Management.
-Looking to work in Software Engineering/Technical roles.
+Try it: npx emendant scan
+Web: emendant.com
+npm: npmjs.com/package/emendant
 
-A Levels in Computer Science, Maths and Economics.
-
-Hobbies include F1, Badminton and Golf.
+Also: Technology degree apprentice, Digital and Technology Solutions at the University of Exeter.
